@@ -1,0 +1,329 @@
+{
+    "image_id": 1,
+    "objects": [
+        {
+            "object_id": 1,
+            "object_file": "object_1_0.png",
+            "bounding_box": {
+                "x1": 2234348365129187328,
+                "y1": 1945555039024054272,
+                "x2": 6846034383556575232,
+                "y2": 12105675798371893248
+            },
+            "extracted_text": " \n\f",
+            "summary": "A photo of a playful dog running in the park."
+        },
+        {
+            "object_id": 2,
+            "object_file": "object_1_1.png",
+            "bounding_box": {
+                "x1": 12178014867386531840,
+                "y1": 13979173243358019584,
+                "x2": 15132376222941577216,
+                "y2": 1441433355735269376
+            },
+            "extracted_text": "\f",
+            "summary": "A person sitting on a bench with a relaxed posture."
+        },
+        {
+            "object_id": 3,
+            "object_file": "object_1_2.png",
+            "bounding_box": {
+                "x1": 15636497906230362112,
+                "y1": 16357073846609641472,
+                "x2": 1297318167659413504,
+                "y2": 4684025087442026496
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 4,
+            "object_file": "object_1_3.png",
+            "bounding_box": {
+                "x1": 1729663731886981120,
+                "y1": 7638104968020361216,
+                "x2": 4251679523214458880,
+                "y2": 13546827679130451968
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 5,
+            "object_file": "object_1_4.png",
+            "bounding_box": {
+                "x1": 14339742688524369920,
+                "y1": 2305843009213693952,
+                "x2": 865254078408556544,
+                "y2": 11745387828182253568
+            },
+            "extracted_text": "aE\n\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 6,
+            "object_file": "object_1_5.png",
+            "bounding_box": {
+                "x1": 16212958658533785600,
+                "y1": 9871890383196127232,
+                "x2": 792915009393917952,
+                "y2": 16140901064495857664
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 7,
+            "object_file": "object_1_6.png",
+            "bounding_box": {
+                "x1": 16285016252571713536,
+                "y1": 9799832789158199296,
+                "x2": 864972603431845888,
+                "y2": 16357073846609641472
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 8,
+            "object_file": "object_1_7.png",
+            "bounding_box": {
+                "x1": 72620543991349248,
+                "y1": 5332261958806667264,
+                "x2": 2810809117432610816,
+                "y2": 11385099857992613888
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 9,
+            "object_file": "object_1_8.png",
+            "bounding_box": {
+                "x1": 16141182539472568320,
+                "y1": 5260204364768739328,
+                "x2": 2450521147242971136,
+                "y2": 11673330234144325632
+            },
+            "extracted_text": "ms\n\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 10,
+            "object_file": "object_1_9.png",
+            "bounding_box": {
+                "x1": 16933534598913064960,
+                "y1": 8718968878589280256,
+                "x2": 18014398509481984000,
+                "y2": 9295429630892703744
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 11,
+            "object_file": "object_1_10.png",
+            "bounding_box": {
+                "x1": 15204433816979505152,
+                "y1": 6196953087261802496,
+                "x2": 360850920143060992,
+                "y2": 11817445422220181504
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 12,
+            "object_file": "object_1_11.png",
+            "bounding_box": {
+                "x1": 8575416640466845696,
+                "y1": 3963167672086036480,
+                "x2": 9151877392770269184,
+                "y2": 5980780305148018688
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 13,
+            "object_file": "object_1_12.png",
+            "bounding_box": {
+                "x1": 15997067351396712448,
+                "y1": 6989586621679009792,
+                "x2": 9151877392770269184,
+                "y2": 11889503016258109440
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 14,
+            "object_file": "object_1_13.png",
+            "bounding_box": {
+                "x1": 649081296294772736,
+                "y1": 5188146770730811392,
+                "x2": 8287186264315133952,
+                "y2": 11961560610296037376
+            },
+            "extracted_text": "ey\n\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 15,
+            "object_file": "object_1_14.png",
+            "bounding_box": {
+                "x1": 721138890332700672,
+                "y1": 4539628424389459968,
+                "x2": 2522578741280899072,
+                "y2": 5836665117072162816
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 16,
+            "object_file": "object_1_15.png",
+            "bounding_box": {
+                "x1": 3171097087622250496,
+                "y1": 3746994889972252672,
+                "x2": 5981343255101440000,
+                "y2": 6557241057451442176
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 17,
+            "object_file": "object_1_16.png",
+            "bounding_box": {
+                "x1": 649081296294772736,
+                "y1": 5764607523034234880,
+                "x2": 2954924305508466688,
+                "y2": 9511602413006487552
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 18,
+            "object_file": "object_1_17.png",
+            "bounding_box": {
+                "x1": 15060318628903649280,
+                "y1": 5692549928996306944,
+                "x2": 360850920143060992,
+                "y2": 11673330234144325632
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 19,
+            "object_file": "object_1_18.png",
+            "bounding_box": {
+                "x1": 649081296294772736,
+                "y1": 5044031582654955520,
+                "x2": 2450521147242971136,
+                "y2": 8935141660703064064
+            },
+            "extracted_text": "seen |\n\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 20,
+            "object_file": "object_1_19.png",
+            "bounding_box": {
+                "x1": 15997067351396712448,
+                "y1": 5404319552844595200,
+                "x2": 2810809117432610816,
+                "y2": 11601272640106397696
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 21,
+            "object_file": "object_1_20.png",
+            "bounding_box": {
+                "x1": 8647474234504773632,
+                "y1": 4035225266123964416,
+                "x2": 9151877392770269184,
+                "y2": 5908722711110090752
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 22,
+            "object_file": "object_1_21.png",
+            "bounding_box": {
+                "x1": 144678138029277184,
+                "y1": 5476377146882523136,
+                "x2": 8863647016618557440,
+                "y2": 9655717601082343424
+            },
+            "extracted_text": "i\n\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 23,
+            "object_file": "object_1_22.png",
+            "bounding_box": {
+                "x1": 17005873667927703552,
+                "y1": 8142508126285856768,
+                "x2": 9079819798732341248,
+                "y2": 10592466323575406592
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 24,
+            "object_file": "object_1_23.png",
+            "bounding_box": {
+                "x1": 16429412915624280064,
+                "y1": 6052837899185946624,
+                "x2": 865254078408556544,
+                "y2": 10520408729537478656
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 25,
+            "object_file": "object_1_24.png",
+            "bounding_box": {
+                "x1": 793196484370628608,
+                "y1": 5332261958806667264,
+                "x2": 2378463553205043200,
+                "y2": 5908722711110090752
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 26,
+            "object_file": "object_1_25.png",
+            "bounding_box": {
+                "x1": 14988261034865721344,
+                "y1": 5620492334958379008,
+                "x2": 562949953421312,
+                "y2": 11673330234144325632
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        },
+        {
+            "object_id": 27,
+            "object_file": "object_1_26.png",
+            "bounding_box": {
+                "x1": 16357355321586352128,
+                "y1": 6701356245527298048,
+                "x2": 18230852766572478464,
+                "y2": 8502796096475496448
+            },
+            "extracted_text": "\f",
+            "summary": "No summary available"
+        }
+    ]
+}
